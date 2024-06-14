@@ -1,4 +1,11 @@
 ## Contoh Script Backup
+## Membuat Script Backup
+
+vi backupORCL.sh
+
+## Memberikan chmod pada script yang baru dibuat
+chmod 775 backupORCL.sh
+
 ## [oracle@exadbdump ~]$ cat backupORCL.sh
 ## Sesuaikan path dan kebutuhan lainnya sesuai database masing masing.
 
