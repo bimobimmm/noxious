@@ -1,0 +1,23 @@
+## Melakukan Set Profile Terlebih dahulu
+
+. .orcl_profile
+
+## Melakukan crosscheck Backup & archivelog terlebih dahulu
+
+RMAN> crosscheck backup;
+RMAN> crosscheck archivelog all;
+
+## Melakukan delete expired backup & archivelog
+
+RMAN> delete noprompt expired archivelog all;
+RMAN> delete noprompt expired backup;
+
+## Menjalankan Backup 
+## Menyesuaikan path pada script backup sebelum backup dimulai agar hasil backup tersimpan di path yang diinginkan
+
+RMAN> backup as compressed backupset incremental level 0 database format '/home/oracle/backup/BCKUP/Backup_JUN/data_level0_%d_%s_%p_%c_%T.bkp';
+backup as compressed backupset incremental level 0 archivelog all format '/home/oracle/backup/BCKUP/Backup_JUN/archive_level0_%d_%s_%p_%c_%T.bak';
+backup current controlfile for standby format '/home/oracle/backup/BCKUP/Backup_JUN/exa_controlfile_level0_%d_%s_%p_%c_%T.bkp';
+backup current controlfile format '/home/oracle/backup/BCKUP/Backup_JUN/current_controlfile_level0_%d_%s_%p_%c_%T.bkp';
+
+## Setelah Menjalankan script backup, pastikan proses backup sudah finished dan tidak ada ERROR.
