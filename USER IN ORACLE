@@ -1,0 +1,25 @@
+## Membuat User di oracle
+
+CREATE USER noxious IDENTIFIED BY 123;
+
+## Cek user yang ada
+
+SQL> set linesize 150
+set pagesize 5000
+SELECT USERNAME FROM all_users;
+
+## MEMBERI AKSES MEMBACA SEMUA TABLE
+
+GRANT READ ANY TABLE TO nama_user;
+
+## MEMBERI AKSES ALL PRIV KE USER
+
+GRANT ALL PRIVILEGES TO nama_user;
+
+## MEMBERI AKSES UNTUK CONNECT USER
+
+GRANT CONNECT TO nama_user;
+
+## CEK USER EXPIRED
+
+SQL> select username, account_status, expiry_date from dba_users;
