@@ -1,0 +1,30 @@
+## Membuat Backup incremental scheduler menggunakan crontab pada oracle
+
+crontab -e 
+
+## memasukan path dan script backup yang sudah dibuat untuk backup incremental scheduler
+## menyesuaikan waktu untuk backup scheduler, jika bingung buka di crontabguru
+
+# INCREMENTAL BACKUP
+20 15 * * 1-6 /bin/sh /home/oracle/backupcrontab.sh
+
+## Script Backup incremental sceduler
+
+## [oracle@exadbdump ~]$ cat /home/oracle/backupcrontab.sh
+
+. /home/oracle/.orcl_profile
+DATE="$(date +"%d-%m-%Y")"
+mkdir /home/oracle/backup/BCKUP/Backup_Crontab/rman_lv1_${DATE}
+$ORACLE_HOME/bin/rman target=/ log=/home/oracle/backup/BCKUP/log/backup_orcl_lv1_$DATE.log << EOF
+RUN {
+  CROSSCHECK BACKUP;
+  DELETE NOPROMPT EXPIRED BACKUP;
+  BACKUP as compressed backupset incremental level 1 DATABASE FORMAT '/home/oracle/backup/BCKUP/Backup_Crontab/rman_lv1_${DATE}/%d_DB_%T_%U.rman';
+  BACKUP AS COMPRESSED BACKUPSET  ARCHIVELOG ALL FORMAT '/home/oracle/backup/BCKUP/Backup_Crontab/rman_lv1_${DATE}/%d_ARC_%T_%U.bkp';
+  BACKUP CURRENT CONTROLFILE FORMAT '/home/oracle/backup/BCKUP/Backup_Crontab/rman_lv1_${DATE}/%d_CTL_%T_%U.bkp';
+  delete NOPROMPT archivelog until time 'SYSDATE-2';
+  crosscheck archivelog all;
+}
+EXIT;
+EOF
+
