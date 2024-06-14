@@ -1,0 +1,42 @@
+## PASTIKAN DATAFILE & ARCHIVE LOG CLEAR!
+## Path Archive log
+/u01/app/oracle/recovery_area/ORCL
+
+## Melakukan Startup menggunakan PFILE yang diambil dari server DC
+SQL> startup nomount pfile='/home/oracle/orclexx.ora';
+
+## Restore Control File yang berada pada path hasil backup di server DC
+RMAN> restore controlfile from '/home/oracle/backup/BCKUP/Backup_Jun/current_controlfile_level0_ORCL_200_1_1_20240614.bkp';
+
+## Melakukan Alter Database Mount
+alter database mount;
+
+## Tahap RESTORE Database
+## Melakukan report schema
+RMAN> report schema;
+
+## Melakukan Crosscheck backup
+RMAN> crosscheck backup;
+
+## Melakukan catalog pada file hasil backup dari server DC
+catalog start with '/home/oracle/backup/BCKUP/Backup_Jun';
+
+## Menjalankan Script Restore
+## Menyesuaikan path untuk Datafile yang akan di restore
+RMAN> run {
+SET NEWNAME FOR DATABASE TO '/home/oracle/backup/Data_file/%b';
+SET NEWNAME FOR tempfile 1 TO '/home/oracle/backup/Data_file/%b';
+restore database;
+switch datafile all;
+switch tempfile all;
+}
+
+## Melakukan Recover Database setelah proses restore berhasil 
+RMAN> recover database;
+
+## Meelakukan Open database Resetlogs setelah recover
+RMAN> alter database open RESETLOGS;
+
+## CEK DATABASE SETELAH RESTORE ##
+SQL> SELECT NAME, OPEN_MODE, DATABASE_ROLE FROM V$DATABASE;
+SQL> create spfile from pfile;
