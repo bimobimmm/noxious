@@ -1,0 +1,16 @@
+##POSTGRE SQL
+## BACKUP DATABASE IN POSTGRE
+noxious@noxious:~$ pg_dump -Fc -h localhost -p 5432 -U noxious lab_postgres -f /home/noxious/labpostgre_backup.dump
+
+## KETERANGAN ##
+## -h hostname: Nama host atau alamat IP dari server PostgreSQL.
+## -p port: Port tempat server PostgreSQL berjalan (biasanya 5432).
+## -U username: Nama pengguna PostgreSQL yang memiliki izin untuk melakukan backup.
+## -d nama_database: Nama database yang ingin Anda backup.
+## -f /path/to/backup_file.sql: Lokasi dan nama file untuk menyimpan backup SQL.
+## Anda dapat menambahkan opsi tambahan seperti -Fc untuk menggunakan format kustom (-Fc untuk format khusus) atau -Fp untuk format plain SQL. 
+## Format custom (-Fc) memungkinkan untuk mempertahankan informasi metadata tambahan yang bermanfaat saat memulihkan.
+
+## RESTORE DATABASE IN POSTGRE
+noxious@noxious:~$ pg_restore -d privacy -h localhost -U noxious labpostgre_backup.dump
+
