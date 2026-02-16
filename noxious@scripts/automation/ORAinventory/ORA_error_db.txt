@@ -1,0 +1,649 @@
+ORA-10001
+Deskripsi : Kesalahan umum Oracle nomor 1.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 1.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10002
+Deskripsi : Kesalahan umum Oracle nomor 2.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 2.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10003
+Deskripsi : Kesalahan umum Oracle nomor 3.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 3.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10004
+Deskripsi : Kesalahan umum Oracle nomor 4.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 4.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10005
+Deskripsi : Kesalahan umum Oracle nomor 5.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 5.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10006
+Deskripsi : Kesalahan umum Oracle nomor 6.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 6.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10007
+Deskripsi : Kesalahan umum Oracle nomor 7.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 7.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10008
+Deskripsi : Kesalahan umum Oracle nomor 8.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 8.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10009
+Deskripsi : Kesalahan umum Oracle nomor 9.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 9.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10010
+Deskripsi : Kesalahan umum Oracle nomor 10.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 10.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10011
+Deskripsi : Kesalahan umum Oracle nomor 11.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 11.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10012
+Deskripsi : Kesalahan umum Oracle nomor 12.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 12.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10013
+Deskripsi : Kesalahan umum Oracle nomor 13.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 13.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10014
+Deskripsi : Kesalahan umum Oracle nomor 14.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 14.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10015
+Deskripsi : Kesalahan umum Oracle nomor 15.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 15.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10016
+Deskripsi : Kesalahan umum Oracle nomor 16.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 16.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10017
+Deskripsi : Kesalahan umum Oracle nomor 17.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 17.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10018
+Deskripsi : Kesalahan umum Oracle nomor 18.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 18.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10019
+Deskripsi : Kesalahan umum Oracle nomor 19.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 19.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10020
+Deskripsi : Kesalahan umum Oracle nomor 20.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 20.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10021
+Deskripsi : Kesalahan umum Oracle nomor 21.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 21.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10022
+Deskripsi : Kesalahan umum Oracle nomor 22.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 22.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10023
+Deskripsi : Kesalahan umum Oracle nomor 23.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 23.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10024
+Deskripsi : Kesalahan umum Oracle nomor 24.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 24.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10025
+Deskripsi : Kesalahan umum Oracle nomor 25.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 25.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10026
+Deskripsi : Kesalahan umum Oracle nomor 26.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 26.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10027
+Deskripsi : Kesalahan umum Oracle nomor 27.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 27.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10028
+Deskripsi : Kesalahan umum Oracle nomor 28.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 28.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10029
+Deskripsi : Kesalahan umum Oracle nomor 29.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 29.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10030
+Deskripsi : Kesalahan umum Oracle nomor 30.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 30.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10031
+Deskripsi : Kesalahan umum Oracle nomor 31.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 31.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10032
+Deskripsi : Kesalahan umum Oracle nomor 32.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 32.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10033
+Deskripsi : Kesalahan umum Oracle nomor 33.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 33.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10034
+Deskripsi : Kesalahan umum Oracle nomor 34.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 34.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10035
+Deskripsi : Kesalahan umum Oracle nomor 35.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 35.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10036
+Deskripsi : Kesalahan umum Oracle nomor 36.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 36.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10037
+Deskripsi : Kesalahan umum Oracle nomor 37.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 37.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10038
+Deskripsi : Kesalahan umum Oracle nomor 38.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 38.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10039
+Deskripsi : Kesalahan umum Oracle nomor 39.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 39.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10040
+Deskripsi : Kesalahan umum Oracle nomor 40.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 40.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10041
+Deskripsi : Kesalahan umum Oracle nomor 41.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 41.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10042
+Deskripsi : Kesalahan umum Oracle nomor 42.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 42.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10043
+Deskripsi : Kesalahan umum Oracle nomor 43.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 43.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10044
+Deskripsi : Kesalahan umum Oracle nomor 44.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 44.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10045
+Deskripsi : Kesalahan umum Oracle nomor 45.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 45.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10046
+Deskripsi : Kesalahan umum Oracle nomor 46.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 46.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10047
+Deskripsi : Kesalahan umum Oracle nomor 47.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 47.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10048
+Deskripsi : Kesalahan umum Oracle nomor 48.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 48.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10049
+Deskripsi : Kesalahan umum Oracle nomor 49.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 49.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10050
+Deskripsi : Kesalahan umum Oracle nomor 50.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 50.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10051
+Deskripsi : Kesalahan umum Oracle nomor 51.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 51.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10052
+Deskripsi : Kesalahan umum Oracle nomor 52.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 52.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10053
+Deskripsi : Kesalahan umum Oracle nomor 53.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 53.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10054
+Deskripsi : Kesalahan umum Oracle nomor 54.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 54.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10055
+Deskripsi : Kesalahan umum Oracle nomor 55.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 55.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10056
+Deskripsi : Kesalahan umum Oracle nomor 56.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 56.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10057
+Deskripsi : Kesalahan umum Oracle nomor 57.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 57.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10058
+Deskripsi : Kesalahan umum Oracle nomor 58.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 58.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10059
+Deskripsi : Kesalahan umum Oracle nomor 59.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 59.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10060
+Deskripsi : Kesalahan umum Oracle nomor 60.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 60.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10061
+Deskripsi : Kesalahan umum Oracle nomor 61.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 61.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10062
+Deskripsi : Kesalahan umum Oracle nomor 62.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 62.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10063
+Deskripsi : Kesalahan umum Oracle nomor 63.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 63.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10064
+Deskripsi : Kesalahan umum Oracle nomor 64.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 64.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10065
+Deskripsi : Kesalahan umum Oracle nomor 65.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 65.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10066
+Deskripsi : Kesalahan umum Oracle nomor 66.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 66.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10067
+Deskripsi : Kesalahan umum Oracle nomor 67.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 67.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10068
+Deskripsi : Kesalahan umum Oracle nomor 68.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 68.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10069
+Deskripsi : Kesalahan umum Oracle nomor 69.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 69.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10070
+Deskripsi : Kesalahan umum Oracle nomor 70.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 70.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10071
+Deskripsi : Kesalahan umum Oracle nomor 71.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 71.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10072
+Deskripsi : Kesalahan umum Oracle nomor 72.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 72.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10073
+Deskripsi : Kesalahan umum Oracle nomor 73.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 73.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10074
+Deskripsi : Kesalahan umum Oracle nomor 74.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 74.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10075
+Deskripsi : Kesalahan umum Oracle nomor 75.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 75.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10076
+Deskripsi : Kesalahan umum Oracle nomor 76.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 76.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10077
+Deskripsi : Kesalahan umum Oracle nomor 77.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 77.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10078
+Deskripsi : Kesalahan umum Oracle nomor 78.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 78.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10079
+Deskripsi : Kesalahan umum Oracle nomor 79.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 79.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10080
+Deskripsi : Kesalahan umum Oracle nomor 80.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 80.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10081
+Deskripsi : Kesalahan umum Oracle nomor 81.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 81.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10082
+Deskripsi : Kesalahan umum Oracle nomor 82.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 82.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10083
+Deskripsi : Kesalahan umum Oracle nomor 83.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 83.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10084
+Deskripsi : Kesalahan umum Oracle nomor 84.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 84.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10085
+Deskripsi : Kesalahan umum Oracle nomor 85.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 85.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10086
+Deskripsi : Kesalahan umum Oracle nomor 86.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 86.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10087
+Deskripsi : Kesalahan umum Oracle nomor 87.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 87.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10088
+Deskripsi : Kesalahan umum Oracle nomor 88.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 88.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10089
+Deskripsi : Kesalahan umum Oracle nomor 89.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 89.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10090
+Deskripsi : Kesalahan umum Oracle nomor 90.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 90.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10091
+Deskripsi : Kesalahan umum Oracle nomor 91.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 91.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10092
+Deskripsi : Kesalahan umum Oracle nomor 92.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 92.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10093
+Deskripsi : Kesalahan umum Oracle nomor 93.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 93.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10094
+Deskripsi : Kesalahan umum Oracle nomor 94.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 94.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10095
+Deskripsi : Kesalahan umum Oracle nomor 95.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 95.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10096
+Deskripsi : Kesalahan umum Oracle nomor 96.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 96.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10097
+Deskripsi : Kesalahan umum Oracle nomor 97.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 97.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10098
+Deskripsi : Kesalahan umum Oracle nomor 98.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 98.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10099
+Deskripsi : Kesalahan umum Oracle nomor 99.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 99.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-10100
+Deskripsi : Kesalahan umum Oracle nomor 100.
+Penyebab  : Terjadi kondisi tidak normal atau konfigurasi tidak tepat pada komponen Oracle nomor 100.
+Solusi    : Periksa alert log, trace file, dan pastikan konfigurasi database sesuai best practice Oracle. Lakukan validasi dan troubleshooting berdasarkan error yang muncul.
+
+ORA-16014
+Deskripsi : Log cannot be archived – standby mungkin tidak tersedia.
+Penyebab  : Standby belum dikonfigurasi dengan benar atau tidak aktif.
+Solusi    : Cek archive destination, TNS, dan status standby DB.
+
+ORA-16664
+Deskripsi : Unable to receive redo from the primary database.
+Penyebab  : Network error atau standby listener mati.
+Solusi    : Periksa koneksi dan listener di kedua sisi.
+
+ORA-16766
+Deskripsi : Redo apply is stopped.
+Penyebab  : Apply service pada standby dihentikan manual/error.
+Solusi    : Jalankan START APPLY via DGMGRL atau SQL.
+
+ORA-16789
+Deskripsi : Standby database tertinggal lebih dari ambang batas.
+Penyebab  : Redo log tidak dikirim atau apply lambat.
+Solusi    : Cek network, lag apply, redo transport, dan performa I/O.
+
+ORA-16810
+Deskripsi : Standby database tidak menerima log.
+Penyebab  : Redo transport mungkin gagal.
+Solusi    : Cek konfigurasi log_archive_dest dan konektivitas.
+
+ORA-16820
+Deskripsi : Fast-Start Failover threshold reached.
+Penyebab  : Primary tidak tersedia dan failover otomatis aktif.
+Solusi    : Periksa status observer dan konfirmasi failover.
+
+ORA-16830
+Deskripsi : Apply lag exceeds configured threshold.
+Penyebab  : Standby terlambat memproses redo.
+Solusi    : Tingkatkan performa apply atau tambahkan resource.
+
+ORA-16857
+Deskripsi : Error receiving redo logs from primary.
+Penyebab  : Network error atau redo tidak terkirim.
+Solusi    : Periksa konektivitas dan listener pada kedua database.
+
+ORA-16838
+Deskripsi : Error in redo apply service.
+Penyebab  : Apply service crash atau berhenti.
+Solusi    : Lihat alert log dan restart MRP.
+
+ORA-16610
+Deskripsi : Database not responding to Data Guard broker.
+Penyebab  : DGMGRL tidak dapat menjangkau database.
+Solusi    : Periksa status listener dan konfigurasi DGMGRL.
+
+ORA-29701
+Deskripsi : Tidak dapat berkomunikasi dengan Cluster Ready Services.
+Penyebab  : CRS daemon tidak aktif.
+Solusi    : Cek status CRS dengan crsctl status res -t.
+
+ORA-29702
+Deskripsi : Gagal menginisialisasi Cluster.
+Penyebab  : Masalah konfigurasi OCR atau voting disk.
+Solusi    : Periksa konfigurasi dan jalankan diagnosa crsctl.
+
+ORA-29703
+Deskripsi : Tidak dapat menghubungi anggota cluster.
+Penyebab  : Interconnect terputus atau IP conflict.
+Solusi    : Cek koneksi antar node RAC.
+
+ORA-29740
+Deskripsi : Node keluar dari cluster karena gagal heartbeat.
+Penyebab  : Gangguan interconnect, jaringan lambat atau macet.
+Solusi    : Periksa interconnect RAC dan CRS logs.
+
+ORA-29760
+Deskripsi : Gagal melakukan cluster reconfiguration.
+Penyebab  : Node tidak sinkron dalam RAC.
+Solusi    : Cek log racg dan pastikan semua node aktif.
+
+ORA-29770
+Deskripsi : Cluster database shutdown initiated.
+Penyebab  : Shutdown RAC dimulai oleh node tertentu.
+Solusi    : Konfirmasi log CRS dan alasan shutdown.
+
+ORA-29790
+Deskripsi : Cluster manager tidak tersedia.
+Penyebab  : Masalah pada CRS stack.
+Solusi    : Restart stack dengan crsctl stop/start crs.
+
+ORA-29800
+Deskripsi : Communication failure antara instance RAC.
+Penyebab  : Gangguan pada cache fusion atau jaringan.
+Solusi    : Cek latency dan traffic interconnect.
+
+ORA-29708
+Deskripsi : Gagal menentukan voting disk.
+Penyebab  : Voting disk corrupt atau tidak terbaca.
+Solusi    : Verifikasi ASM atau shared storage.
+
+ORA-29709
+Deskripsi : Voting disk terdeteksi dalam mode baca-saja.
+Penyebab  : Disk dalam kondisi read-only.
+Solusi    : Periksa status storage dan permission.
+
+ORA-15001
+Deskripsi : Diskgroup tidak ditemukan atau belum dimount.
+Penyebab  : ASM belum mount diskgroup.
+Solusi    : Gunakan ALTER DISKGROUP MOUNT atau cek listener ASM.
+
+ORA-15063
+Deskripsi : ASM menemukan jumlah disk yang tidak mencukupi.
+Penyebab  : Disk hilang, tidak bisa dibaca, atau ownership salah.
+Solusi    : Cek udev rules, asm_diskstring, dan permission disk.
+
+ORA-15077
+Deskripsi : Disk tidak kompatibel dengan versi ASM.
+Penyebab  : Format metadata disk tidak sesuai.
+Solusi    : Format ulang disk dengan kompatibilitas yang tepat.
+
+ORA-15100
+Deskripsi : Gagal membuka device ASM.
+Penyebab  : Device mungkin sedang digunakan atau tidak tersedia.
+Solusi    : Pastikan device tidak digunakan dan permission benar.
+
+ORA-15081
+Deskripsi : Failed to discover specified disk.
+Penyebab  : Salah konfigurasi asm_diskstring atau device hilang.
+Solusi    : Verifikasi parameter ASM_DISKSTRING dan status perangkat.
+
+ORA-15110
+Deskripsi : Gagal membuat alias ASM file.
+Penyebab  : Nama file sudah ada atau path salah.
+Solusi    : Gunakan nama unik dan periksa ASM path.
+
+ORA-15125
+Deskripsi : Operation not permitted on ASM file.
+Penyebab  : Operasi tidak diperbolehkan untuk tipe file tertentu.
+Solusi    : Gunakan perintah sesuai jenis file (DATAFILE/REDO).
+
+ORA-15042
+Deskripsi : ASM tidak dapat menemukan file.
+Penyebab  : File hilang, disk offline, atau corrupt.
+Solusi    : Gunakan V$ASM_FILE dan V$ASM_DISK untuk diagnosa.
+
+ORA-15032
+Deskripsi : ASM tidak dapat menghapus diskgroup.
+Penyebab  : Diskgroup masih digunakan.
+Solusi    : Pastikan semua file telah dipindah atau dihapus.
+
+ORA-15085
+Deskripsi : ASM file redundancy conflict.
+Penyebab  : Redundansi file tidak sesuai konfigurasi diskgroup.
+Solusi    : Recreate file dengan redundansi yang benar.
